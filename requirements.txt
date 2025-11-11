@@ -19,3 +19,4 @@ tqdm
 beautifulsoup4
 chardet
 duckduckgo_search==8.0.2
+gradio==5.49.1
